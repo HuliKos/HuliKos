@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Lan Kostrikin</h1>
-<h3 align="center">A passionate backend developer in Dallas, TX</h3>
+<h1 align="center">Hi 👋, I'm HuliKos!</h1>
+<h3 align="center">A passionate amatuer coder.</h3>
 
-- 🌱 I’m currently learning **Java, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **lankostrikin@gmail.com**
+- 📫 How to reach me **hulipentest@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lankostrikin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lankostrikin" height="30" width="40" /></a>
 <a href="https://discord.gg/384230765493485569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="384230765493485569" height="30" width="40" /></a>
 </p>
 
